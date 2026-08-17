@@ -20,3 +20,5 @@ pnpm-debug.log*
 *.sln
 *.sw?
 README.md
+maquetacion.md
+flujo_maquetacion.md

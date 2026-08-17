@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1328" height="259.588" viewBox="0 0 1328 259.588">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffefef"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="imgbgdesgradado" transform="translate(-136.332 -8478.512)">
+    <g id="Group_1099158" data-name="Group 1099158" transform="translate(136.332 8478.532)" style="isolation: isolate">
+      <g id="Path_609286" data-name="Path 609286" fill="#ffefef">
+        <path d="M 1327.5 258.6992797851562 L 0.5 258.6992797851562 L 0.5 0.4999579787254333 L 1327.5 0.4999579787254333 L 1327.5 258.6992797851562 Z" stroke="none"/>
+        <path d="M 1 0.999969482421875 L 1 258.1992797851562 L 1327 258.1992797851562 L 1327 0.999969482421875 L 1 0.999969482421875 M 0 -3.0517578125e-05 L 1328 -3.0517578125e-05 L 1328 259.1992797851562 L 0 259.1992797851562 L 0 -3.0517578125e-05 Z" stroke="none" fill="#fde6ff"/>
+      </g>
+    </g>
+    <path id="Path_873347" data-name="Path 873347" d="M0,0H1328V97H0Z" transform="translate(1464.332 8575.512) rotate(180)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_401064" data-name="Rectangle 401064" width="1328" height="97" transform="translate(136.332 8641.1)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
