@@ -7,26 +7,44 @@
         span 3
       h1.
         Discriminación
-    p.mb-4.
-      La comunicación pública debe contribuir a que todas las personas accedan a la información y a los servicios en condiciones de respeto e igualdad. Para lograrlo, es necesario identificar aquellas prácticas, expresiones o comportamientos que pueden generar exclusión o afectar el trato digno hacia la ciudadanía.
-    p.mb-4.
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4
+      .bloque-texto-g__img(
+        role="img"
+        :style="{'background-image': `url(${require_src('@/assets/curso/temas/t3/img1.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0.
+          La comunicación pública debe contribuir a que todas las personas accedan a la información y a los servicios en condiciones de respeto e igualdad. Para lograrlo, es necesario identificar aquellas prácticas, expresiones o comportamientos que pueden generar exclusión o afectar el trato digno hacia la ciudadanía.
+    p.mb-0.
       Reconocer las diferentes formas en que puede manifestarse la discriminación permite fortalecer una comunicación más incluyente, respetuosa y consciente. En este apartado se abordarán los principales aspectos relacionados con este tema y su impacto en la comunicación institucional.
 
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2.
         3.1 Concepto
-    p.mb-4.
-      La discriminación sale a relucir cuando una persona o grupo recibe un trato desigual, injusto o excluyente por razones relacionadas con su origen étnico, de género, su orientación sexual, la edad que tiene, alguna condición de discapacidad, su condición social, la nacionalidad de la que proviene, sus creencias, los procesos culturales que desarrolla o situación de víctima.
-    p.mb-4.
-      En la comunicación pública, la discriminación no siempre se presenta de manera evidente. A veces está, en una palabra, en una expresión, en una imagen, en una respuesta o en la forma como se entrega la información. También puede aparecer cuando se generaliza sobre una población, se reduce a una persona a una sola condición o se desconocen sus necesidades de comunicación y atención.
-    p.mb-4.
-      Ejemplo de ello; una entidad puede estar generando discriminación cuando usa expresiones o términos que llevan a la infantilización a las personas mayores, se ridiculizan a las personas con alguna condición de discapacidad o relacionan a la población migrante con ideas y subjetividades negativas. Para estos casos, el problema no radica solo en las palabras utilizadas, sino también, en el mensaje que se transmite y en el efecto que puede causar en la persona que lo recibe.
+    
+    .row.align-items-stretch.justify-content-center
+      .col-lg-8.mb-4.mb-lg-0.order-2.order-lg-1
+        p.mb-4.
+          La discriminación sale a relucir cuando una persona o grupo recibe un trato desigual, injusto o excluyente por razones relacionadas con su origen étnico, de género, su orientación sexual, la edad que tiene, alguna condición de discapacidad, su condición social, la nacionalidad de la que proviene, sus creencias, los procesos culturales que desarrolla o situación de víctima.
+        .cajon.color-primario.p-4
+          p.mb-0 En la comunicación pública, la discriminación no siempre se presenta de manera evidente. A veces está, en una palabra, en una expresión, en una imagen, en una respuesta o en la forma como se entrega la información. También puede aparecer cuando se generaliza sobre una población, se reduce a una persona a una sola condición o se desconocen sus necesidades de comunicación y atención.
+        .BG02.px-5.py-4.row.align-items-start
+          .col-auto.d-none.d-md-block
+            img.tema1-definicion__icono(src="@/assets/curso/temas/t3/img3.svg" alt="")
+          .col
+            p.mb-0.
+              Ejemplo de ello; una entidad puede estar generando discriminación cuando usa expresiones o términos que llevan a la infantilización a las personas mayores, se ridiculizan a las personas con alguna condición de discapacidad o relacionan a la población migrante con ideas y subjetividades negativas. Para estos casos, el problema no radica solo en las palabras utilizadas, sino también, en el mensaje que se transmite y en el efecto que puede causar en la persona que lo recibe.
+      .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
+        figure.h-100.mb-0
+          img.h-100.w-100(src="@/assets/curso/temas/t3/img2.png" alt="" style="object-fit: cover")
 
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2.
         3.2 Tipos
+    figure.mb-4
+      img(src="@/assets/curso/temas/t3/img4.png" alt="")
     p.mb-4.
       La discriminación puede presentarse en diferentes maneras. Algunas pueden ser directas y evidentes; otras muy sutiles y se mantienen en expresiones, hábitos o prácticas cotidianas. A continuación, se asocia una tabla con el tipo de discriminación, su respectiva descripción y con un ejemplo de cómo se aplica en la comunicación:
     .titulo-sexto.color-acento-contenido.mb-3.mt-4
@@ -34,7 +52,7 @@
         Tabla 3.
       span.
         Tipos de discriminación
-    .tabla-a.color-acento-contenido.mb-4
+    .tabla-a.color-acento-contenido.tema1-tabla.mb-0
       table
         thead
           tr
@@ -68,9 +86,9 @@
               Utilizar expresiones que asumen que ciertos cargos o roles son solo de hombre o mujeres.
           tr
             td.
-              Étnica o cultura.
+              Étnica o cultural.
             td.
-              Aparecen cuando se desconoce la lengua, practicas o identidades culturales.
+              Aparecen cuando se desconoce la lengua, prácticas o identidades culturales.
             td.
               Utilizar mensajes que ridiculicen acentos, costumbres o formas de expresión.
           tr
@@ -91,7 +109,7 @@
             td.
               Origen o nacionalidad.
             td.
-              Se produce cuando se asocian ideas negativas a personas migrantes o extrajeras.
+              Se produce cuando se asocian ideas negativas a personas migrantes o extranjeras.
             td.
               Usar expresiones que relacionan migración con amenaza o problemas.
 
@@ -101,80 +119,159 @@
         3.3 Características
     p.mb-4.
       La discriminación en la comunicación tiene algunas características que ayudan a identificarla. A continuación, se describen cada una de ellas:
-    h5.mt-4.
-      Explicita
-    p.mb-4.
-      Puede ser explicita cuando aparca de manera directa en una expresión ofensiva, excluyente o despectiva.
-    h5.mt-4.
-      Implícita
-    p.mb-4.
-      Es implícita cuando se oculta en frases aparentemente normales, pero que generan estereotipos o suposiciones sobre una población.
-    h5.mt-4.
-      Repetitiva
-    p.mb-4.
-      Muchas expresiones discriminatorias se usan por costumbre y se normaliza en el lenguaje cotidiano.
-    h5.mt-4.
-      Excluyente
-    p.mb-4.
-      También puede ser excluyente porque dejan por fuera a personas de la información, de la atención o la participación.
-    p.mb-4.
-      Identificar estas características antes de divulgar mensajes institucionales permiten que la comunicación sea más incluyente, respetuosa, precisa y consciente.
+    .row.justify-content-center.mb-5
+      .col-lg-3.col-md-6.mb-4
+        .tarjeta-numerada.tema3-caracteristica--1.h-100.p-5
+          .tarjeta-numerada__numero
+            .h2 1
+          h5.text-center Explícita
+          p.text-center.mb-0.
+            Puede ser explícita cuando aparece de manera directa en una expresión ofensiva, excluyente o despectiva.
+      .col-lg-3.col-md-6.mb-4
+        .tarjeta-numerada.tema3-caracteristica--2.h-100.p-5
+          .tarjeta-numerada__numero
+            .h2 2
+          h5.text-center Implícita
+          p.text-center.mb-0.
+            Es implícita cuando se oculta en frases aparentemente normales, pero que generan estereotipos o suposiciones sobre una población.
+      .col-lg-3.col-md-6.mb-4
+        .tarjeta-numerada.tema3-caracteristica--3.h-100.p-5
+          .tarjeta-numerada__numero
+            .h2 3
+          h5.text-center Repetitiva
+          p.text-center.mb-0.
+            Muchas expresiones discriminatorias se usan por costumbre y se normalizan en el lenguaje cotidiano.
+      .col-lg-3.col-md-6.mb-4
+        .tarjeta-numerada.tema3-caracteristica--4.h-100.p-5
+          .tarjeta-numerada__numero
+            .h2 4
+          h5.text-center Excluyente
+          p.text-center.mb-0.
+            También puede ser excluyente porque deja por fuera a personas de la información, de la atención o la participación.
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-auto.d-none.d-md-block
+        img.tema3-icono(src="@/assets/curso/temas/t3/img5.svg" alt="")
+      .col-lg-9
+        .cajon.color-secundario.p-4
+          p.mb-0.
+            Identificar estas características antes de divulgar mensajes institucionales permite que la comunicación sea más incluyente, respetuosa, precisa y consciente.
     p.mb-4.
       Las características de la discriminación pueden identificarse en diferentes momentos y formas de la comunicación institucional. La siguiente imagen presenta, de manera gráfica, las principales características que permiten reconocer expresiones o prácticas discriminatorias y resalta la importancia de prevenirlas para promover mensajes más respetuosos e incluyentes:
-    .titulo-sexto.color-acento-contenido.mb-3.mt-4
-      h5.
-        Figura 2.
-      span.
-        Características de la discriminación en la comunicación institucional
+    .row.justify-content-center
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido.mb-3.mt-4
+          h5.
+            Figura 2.
+          span.
+            Características de la discriminación en la comunicación institucional
+    .row.justify-content-center
+      .col-lg-10
+        figure.mb-0
+          img.d-none.d-md-block(src="@/assets/curso/temas/t3/img6.svg" alt="Figura sobre las características explícita, implícita, repetitiva y excluyente de la discriminación en la comunicación.")
+          img.d-block.d-md-none(src="@/assets/curso/temas/t3/img6.svg" alt="Figura sobre las características explícita, implícita, repetitiva y excluyente de la discriminación en la comunicación.")
 
     Separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2.
         3.4 Uso del lenguaje discriminatorio
-    p.mb-4.
-      El lenguaje discriminatorio puede aparecer en distintos procesos comunicativos como: conversaciones, respuestas institucionales, formularios, campañas, llamadas, publicaciones digitales o en los servicios de atención personal. En algunas ocasiones se da en expresiones muy evidentes y en algunas oportunidades se encuentran en frases que parecen amables, pero pueden resultar inadecuados para el contexto institucional.
-    p.mb-4.
-      Algunos ejemplos de los lenguajes discriminatorios, son el uso de palabras como abuelito, minusválido, ilegal, invalido; lo cual pueden llevar a la afectación del cómo se reconoce a las personas. Aunque muchos casos se realizan estas palabras en todo nos cercanos, la comunicación pública conviene realizarla en términos empáticos y respetuosos.
+    .row.g-0.align-items-stretch.tema1-apertura.mb-4
+      .col-lg-5
+        figure.tema1-apertura__imagen.mb-0
+          img(src="@/assets/curso/temas/t3/img7.png" alt="")
+      .col-lg-7
+        .bgwhite__contenido.p-4
+          .row
+            .col-2.d-none.d-lg-block
+              img.tema1-apertura__icono.mb-4(src="@/assets/curso/temas/t3/img8.svg" alt="")
+            .col-12
+              p.mb-4.
+                El lenguaje discriminatorio puede aparecer en distintos procesos comunicativos como: conversaciones, respuestas institucionales, formularios, campañas, llamadas, publicaciones digitales o en los servicios de atención personal. En algunas ocasiones se da en expresiones muy evidentes y en algunas oportunidades se encuentran en frases que parecen amables, pero pueden resultar inadecuados para el contexto institucional.
+              p.mb-0.
+                Algunos ejemplos de los lenguajes discriminatorios son el uso de palabras como abuelito, minusválido, ilegal o inválido, las cuales pueden afectar la forma como se reconoce a las personas. Aunque muchas veces estas palabras se utilizan en tonos cercanos, la comunicación pública debe realizarse en términos empáticos y respetuosos.
     p.mb-4.
       Basado en lo anterior, se relacionan las expresiones que se deben evitar y las alternativas recomendadas para hacerlo:
-    h5.mt-4.
-      Discapacitados
-    p.mb-4.
-      Personas con discapacidad.
-    h5.mt-4.
-      Abuelitos
-    p.mb-4.
-      Personas mayores.
-    h5.mt-4.
-      Ilegales
-    p.mb-4.
-      Personas migrantes o en situación irregular.
-    h5.mt-4.
-      Personas normales
-    p.mb-4.
-      Personas sin discapacidad.
-    h5.mt-4.
-      Victimas como etiqueta única
-    p.mb-4.
-      Personas víctimas del conflicto.
-    h5.mt-4.
-      Pobrecitos
-    p.mb-4.
-      Personas en situación de vulnerabilidad.
-    h5.mt-4.
-      Sordomudos
-    p.mb-4.
-      Personas con discapacidad auditiva.
+
+    .BG05.px-5.mb-4
+      .row.align-items-center
+        .col-lg-4.d-none.d-lg-block
+          figure.mb-0
+            img(src="@/assets/curso/temas/t3/img8.png" alt="")
+        .col-lg-8
+          SlyderF(columnas="col-md-6 col-lg-6" :autoplay="false" :loop="false" :bullets="true")
+            .tarjeta.bgwhite.h-100.p-4
+              .row.justify-content-center.mb-4
+                .col-5
+                  img(src="@/assets/curso/temas/t3/img10.svg" alt="")
+              p.text-center.mb-0
+                strong Discapacitados:
+                |  personas con discapacidad.
+            .tarjeta.bgwhite.h-100.p-4
+              .row.justify-content-center.mb-4
+                .col-5
+                  img(src="@/assets/curso/temas/t3/img11.svg" alt="")
+              p.text-center.mb-0
+                strong Abuelitos:
+                |  personas mayores.
+            .tarjeta.bgwhite.h-100.p-4
+              .row.justify-content-center.mb-4
+                .col-5
+                  img(src="@/assets/curso/temas/t3/img12.svg" alt="")
+              p.text-center.mb-0
+                strong Ilegales:
+                |  personas migrantes o en situación irregular.
+            .tarjeta.bgwhite.h-100.p-4
+              .row.justify-content-center.mb-4
+                .col-5
+                  img(src="@/assets/curso/temas/t3/img13.svg" alt="")
+              p.text-center.mb-0
+                strong Personas normales:
+                |  personas sin discapacidad.
+            .tarjeta.bgwhite.h-100.p-4
+              .row.justify-content-center.mb-4
+                .col-5
+                  img(src="@/assets/curso/temas/t3/img14.svg" alt="")
+              p.text-center.mb-0
+                strong Víctimas como etiqueta única:
+                |  personas víctimas del conflicto.
+            .tarjeta.bgwhite.h-100.p-4
+              .row.justify-content-center.mb-4
+                .col-5
+                  img(src="@/assets/curso/temas/t3/img15.svg" alt="")
+              p.text-center.mb-0
+                strong Pobrecitos:
+                |  personas en situación de vulnerabilidad.
+            .tarjeta.bgwhite.h-100.p-4
+              .row.justify-content-center.mb-4
+                .col-5
+                  img(src="@/assets/curso/temas/t3/img16.svg" alt="")
+              p.text-center.mb-0
+                strong Sordomudos:
+                |  personas con discapacidad auditiva.
+
     p.mb-4.
       El cuidado del lenguaje también debe evitar el uso de las generalizaciones: no todas las personas migrantes viven la misma situación, no todas las personas mayores requieren el mismo apoyo, no todas las personas con alguna condición de discapacidad poseen las mismas necesidades comunicativas; por eso la comunicación institucional debe evitar las suposiciones y procurar por mensajes respetuosos, claros y ajustados al contexto. Algunos ejemplos de preguntas que se deben realizar en el antes, es decir, en la preparación del mensaje son:
-    p.mb-4.
-      ¿La expresión reconocer a la persona con dignidad? Evitar términos ofensivos o despectivos.
-    p.mb-4.
-      ¿El mensaje reduce a alguien a una sola condición? Prevenir etiquetas o generalizaciones.
-    p.mb-4.
-      ¿El mensaje excluye a algún grupo? Revisar si todas las personas pueden sentirse reconocidas.
-    p.mb-4.
-      Finalmente, la comprensión y el uso de un lenguaje empático y respetuoso pasa por la revisión de las formas en las que se piensa y se relacionan con el mundo y el entorno. Cuando las entidades gubernamentales se comunican con las personas sin estigmatizarlas, se fortalece la confianza, se mejora la atención y se avanza hacia una relación más incluyente y participativa entre las entidades y las ciudadanías.
+    .row.align-items-stretch.justify-content-center
+      .col-lg-7.mb-4.mb-lg-0.order-2.order-lg-1
+        ol.lista-ol--cuadro.lista-ol--separador.mb-4
+          li
+            .lista-ol--cuadro__vineta
+              span 1
+            | ¿La expresión reconoce a la persona con dignidad? Evitar términos ofensivos o despectivos.
+          li
+            .lista-ol--cuadro__vineta
+              span 2
+            | ¿El mensaje reduce a alguien a una sola condición? Prevenir etiquetas o generalizaciones.
+          li
+            .lista-ol--cuadro__vineta
+              span 3
+            | ¿El mensaje excluye a algún grupo? Revisar si todas las personas pueden sentirse reconocidas.
+        .cajon.color-secundario.p-4
+          p.mb-0.
+            Finalmente, la comprensión y el uso de un lenguaje empático y respetuoso pasa por la revisión de las formas en las que se piensa y se relacionan con el mundo y el entorno. Cuando las entidades gubernamentales se comunican con las personas sin estigmatizarlas, se fortalece la confianza, se mejora la atención y se avanza hacia una relación más incluyente y participativa entre las entidades y las ciudadanías.
+      .col-lg-5.col-8.mb-4.mb-lg-0.order-1.order-lg-2
+        figure.h-100.mb-0
+          img.h-100.w-100(src="@/assets/curso/temas/t3/img17.png" alt="" style="object-fit: cover")
 </template>
 
 <script>

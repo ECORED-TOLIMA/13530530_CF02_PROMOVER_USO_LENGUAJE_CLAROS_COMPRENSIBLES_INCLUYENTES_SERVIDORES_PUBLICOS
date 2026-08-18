@@ -77,6 +77,22 @@ figcaption
     background-color: $color-primario
 
 // Introducción
+.intro-contexto
+  border-radius: 1.5rem
+
+  &__imagen
+    margin: 0 auto
+    max-width: 300px
+
+  &__linea
+    background: linear-gradient(to right, $color-acento-contenido 0 35%, $color-sistema-b 35% 100%)
+    height: 3px
+    width: 170px
+
+.intro-icono
+  height: 84px
+  width: 84px
+
 .intro-imagen-principal
   min-height: 360px
   position: relative
@@ -101,6 +117,8 @@ figcaption
     z-index: 1
 
 // Tema 1
+.tema1-apertura__icono
+  width: 70px !important
 .cajon.color-primario
   background-color: #F6F3FF
 .cajon.color-secundario
@@ -140,7 +158,14 @@ figcaption
   margin-inline: -3.5rem !important
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
-
+.BG05
+  background-image: url("../assets/curso/temas/bg/imgbgfondoslyderF.png")
+  background-repeat: no-repeat
+  background-position: center
+  background-size: cover
+  margin-inline: -3.5rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
 .lista-ol--cuadro__vineta
   color: #000000
 .lista-ol li, .lista-ol--cuadro li, .lista-ul li, .lista-ul--separador li, .lista-ul--color li 
@@ -230,17 +255,44 @@ figcaption
 .slyder-a__btn--sigt, .slyder-a__btn--atrs
   background-color: #ffb303
   border: 1px solid #ffb303
-
+.fa-chevron-right, .fa-chevron-left
+  color: #FFB303
 .slyder-a__bullets__item
   background-color: #BDB6FB
 .slyder-a__bullets__item--active
   background-color: #FFB303
   border-color: #FFB303
+
+.linea-tiempo-c__header__btn, .pasos-b__header__btn--left, .pasos-b__header__btn--right, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right
+  border: 2px solid #FFB303
+  background-color: #FFB303
+.pasos-b__header__item--before .pasos-b__header__item__dot
+  border-color: #FFC4C4
+  background-color: #FFC4C4
+.pasos-b__header__item__dot i
+  color: #000
+.pasos-b__header__item__dot
+  border: 1px solid #144567
+.pasos-b__header__item--active .pasos-b__header__item__dot
+  background-color: #FFB303
+  border-color: #FFB303
+.pasos-b__header__item__line-container:before
+  background-color: #9D9D9D
+.pasos-b__header__item__line-container:after
+  background-color: #9D9D9D
+.pasos-b__header__item--active .pasos-b__header__item__dot span
+  color: $black
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before
+  background-color: #9D9D9D !important
+.pasos-b__header__item--before .pasos-b__header__item__line-container:after
+  background-color: #9D9D9D !important
+
 .tema1-apertura
   background-color: #E8E5FF !important
 .bgwhite
   background-color: #FFFFFF
-
+.tarjeta.color-secundario
+    background-color: #FEDEDE
 // Tema 2
 .tema2-descarga
   background-color: #FFF0CC
@@ -249,6 +301,106 @@ figcaption
     margin: 0
   &--compacta
     border-radius: .75rem
+
+// Tema 4
+.tema4-concepto
+  background: linear-gradient(90deg, #BDB6FB 0%, #BDB6FB 44%, #FFB303 64%, #FFB303 100%)
+
+  &__contenido
+    background-color: rgba($white, .92)
+    width: 100%
+
+  &__imagen
+    height: 100%
+
+    img
+      height: 100%
+      min-height: 210px
+      object-fit: cover
+      width: 100%
+
+  @media (max-width: $bp-max-md)
+    background: #BDB6FB
+
+    &__imagen img
+      min-height: auto
+
+// Tema 5
+.tema5-concepto__imagen
+  height: 100%
+
+  img
+    height: 100%
+    object-fit: cover
+    width: 100%
+
+.tema5-evidencias
+  background-color: #BDB6FB
+
+  &__contenido
+    background-color: rgba($white, .92)
+    width: 100%
+
+  &__imagen
+    height: 100%
+
+    img
+      height: 100%
+      min-height: 210px
+      object-fit: cover
+      width: 100%
+
+  @media (max-width: $bp-max-md)
+    &__imagen img
+      min-height: auto
+
+.tema5-formulacion
+  background-color: #E8E5FF
+
+  &__imagen
+    height: 100%
+
+    img
+      height: 100%
+      object-fit: cover
+      width: 100%
+
+  &__icono
+    width: 72px !important
+
+// Tema 6
+.tema6-preventiva
+  &--1
+    background-color: #F1EFFF
+  &--2
+    background-color: #FEDEDE
+  &--3
+    background-color: #D9FFD0
+  &--4
+    background-color: #D7E8FF
+
+  &__icono
+    display: block
+    max-width: 105px
+
+.tema6-correctiva-intro
+  background-color: #E8E5FF
+
+  &__imagen
+    height: 100%
+
+    img
+      height: 100%
+      object-fit: cover
+      width: 100%
+
+  &__icono
+    width: 72px !important
+
+.tema6-correctiva
+  background-color: #F6F3FF
+  border-radius: 1.5rem
+
 .tema2-enfoque
   &--claro
     background-color: #F1EFFF
@@ -292,6 +444,24 @@ figcaption
 // Tema 3
 .tema3-icono
   width: 84px
+
+.tema3-caracteristica
+  &--1
+    border-color: #E5E4FE
+    .tarjeta-numerada__numero
+      background-color: #E5E4FE
+  &--2
+    border-color: #A0FF89
+    .tarjeta-numerada__numero
+      background-color: #A0FF89
+  &--3
+    border-color: #FFC4C4
+    .tarjeta-numerada__numero
+      background-color: #FFC4C4
+  &--4
+    border-color: #91BFFF
+    .tarjeta-numerada__numero
+      background-color: #91BFFF
 
 .tema3-tipo
   background-color: #E5E4FE
