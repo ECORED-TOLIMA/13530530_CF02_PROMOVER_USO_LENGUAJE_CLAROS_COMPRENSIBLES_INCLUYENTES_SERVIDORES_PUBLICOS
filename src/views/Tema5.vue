@@ -7,7 +7,7 @@
         span 5
       h1.
         Indicadores
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-5.col-8.mb-4.mb-lg-0
         figure.mb-4
           img(src="@/assets/curso/temas/t5/img0.png" alt="Personas revisando información mediante dispositivos digitales")
