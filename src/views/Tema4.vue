@@ -353,7 +353,7 @@
           p.mb-0
             strong Derecho fundamental de petición: 
             | regula el mecanismo para que los ciudadanos hagan solicitudes ante las autoridades y reciban respuestas claras y rápidas.
-      .row(titulo="Hoy" subtitulo="")
+      .row(titulo="Actualidad" subtitulo="")
         .col-lg-2.col-md-3.col-5.mb-3.mb-lg-0.d-none.d-lg-block
           img(src="@/assets/curso/temas/t4/img22.svg" alt="")
         .col-lg-8.col-md-9

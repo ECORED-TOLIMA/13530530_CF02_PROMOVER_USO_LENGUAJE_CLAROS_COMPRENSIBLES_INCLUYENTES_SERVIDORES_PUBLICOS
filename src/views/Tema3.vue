@@ -86,9 +86,9 @@
               Utilizar expresiones que asumen que ciertos cargos o roles son solo de hombre o mujeres.
           tr
             td.
-              Étnica o cultural.
+              Étnica o cultura.
             td.
-              Aparecen cuando se desconoce la lengua, prácticas o identidades culturales.
+              Aparecen cuando se desconoce la lengua, practicas o identidades culturales.
             td.
               Utilizar mensajes que ridiculicen acentos, costumbres o formas de expresión.
           tr
@@ -109,7 +109,7 @@
             td.
               Origen o nacionalidad.
             td.
-              Se produce cuando se asocian ideas negativas a personas migrantes o extranjeras.
+              Se produce cuando se asocian ideas negativas a personas migrantes o extrajeras.
             td.
               Usar expresiones que relacionan migración con amenaza o problemas.
 
@@ -124,9 +124,9 @@
         .tarjeta-numerada.tema3-caracteristica--1.h-100.p-5
           .tarjeta-numerada__numero
             .h2 1
-          h5.text-center Explícita
+          h5.text-center Explicita
           p.text-center.mb-0.
-            Puede ser explícita cuando aparece de manera directa en una expresión ofensiva, excluyente o despectiva.
+            Puede ser explicita cuando aparca de manera directa en una expresión ofensiva, excluyente o despectiva.
       .col-lg-3.col-md-6.mb-4
         .tarjeta-numerada.tema3-caracteristica--2.h-100.p-5
           .tarjeta-numerada__numero
@@ -140,14 +140,14 @@
             .h2 3
           h5.text-center Repetitiva
           p.text-center.mb-0.
-            Muchas expresiones discriminatorias se usan por costumbre y se normalizan en el lenguaje cotidiano.
+            Muchas expresiones discriminatorias se usan por costumbre y se normaliza en el lenguaje cotidiano.
       .col-lg-3.col-md-6.mb-4
         .tarjeta-numerada.tema3-caracteristica--4.h-100.p-5
           .tarjeta-numerada__numero
             .h2 4
           h5.text-center Excluyente
           p.text-center.mb-0.
-            También puede ser excluyente porque deja por fuera a personas de la información, de la atención o la participación.
+            También puede ser excluyente porque dejan por fuera a personas de la información, de la atención o la participación.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-auto.d-none.d-md-block
@@ -155,7 +155,7 @@
       .col-lg-9
         .cajon.color-secundario.p-4
           p.mb-0.
-            Identificar estas características antes de divulgar mensajes institucionales permite que la comunicación sea más incluyente, respetuosa, precisa y consciente.
+            Identificar estas características antes de divulgar mensajes institucionales permiten que la comunicación sea más incluyente, respetuosa, precisa y consciente.
     p.mb-4.
       Las características de la discriminación pueden identificarse en diferentes momentos y formas de la comunicación institucional. La siguiente imagen presenta, de manera gráfica, las principales características que permiten reconocer expresiones o prácticas discriminatorias y resalta la importancia de prevenirlas para promover mensajes más respetuosos e incluyentes:
     .row.justify-content-center
@@ -188,7 +188,7 @@
               p.mb-4.
                 El lenguaje discriminatorio puede aparecer en distintos procesos comunicativos como: conversaciones, respuestas institucionales, formularios, campañas, llamadas, publicaciones digitales o en los servicios de atención personal. En algunas ocasiones se da en expresiones muy evidentes y en algunas oportunidades se encuentran en frases que parecen amables, pero pueden resultar inadecuados para el contexto institucional.
               p.mb-0.
-                Algunos ejemplos de los lenguajes discriminatorios son el uso de palabras como abuelito, minusválido, ilegal o inválido, las cuales pueden afectar la forma como se reconoce a las personas. Aunque muchas veces estas palabras se utilizan en tonos cercanos, la comunicación pública debe realizarse en términos empáticos y respetuosos.
+                Algunos ejemplos de los lenguajes discriminatorios, son el uso de palabras como abuelito, minusválido, ilegal, invalido; lo cual pueden llevar a la afectación del cómo se reconoce a las personas. Aunque muchos casos se realizan estas palabras en todo nos cercanos, la comunicación pública conviene realizarla en términos empáticos y respetuosos.
     p.mb-4.
       Basado en lo anterior, se relacionan las expresiones que se deben evitar y las alternativas recomendadas para hacerlo:
 
@@ -257,7 +257,7 @@
           li
             .lista-ol--cuadro__vineta
               span 1
-            | ¿La expresión reconoce a la persona con dignidad? Evitar términos ofensivos o despectivos.
+            | ¿La expresión reconocer a la persona con dignidad? Evitar términos ofensivos o despectivos.
           li
             .lista-ol--cuadro__vineta
               span 2

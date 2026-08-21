@@ -28,7 +28,7 @@
             target="_blank"
             rel="noopener noreferrer"
           )
-            span Enlace web
+            span Enlace #[i web]
             i.fas.fa-external-link-alt
 
     p.mb-4 Este componente formativo permite comprender que el lenguaje no solo sirve para entregar información, también influye en la forma como las personas se sienten reconocidas, orientadas y atendidas. En la comunicación pública, una palabra, una respuesta o una explicación pueden acercar a la ciudadanía, pero también pueden generar distancia cuando no consideran la diversidad de quienes reciben el mensaje.

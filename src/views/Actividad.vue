@@ -221,18 +221,18 @@ const datosPreguntas = [
       'Revise la sección de indicadores. Para ser útiles, deben ser claros, medibles, pertinentes, comparables y basados en evidencia.',
   },
   {
-    texto: '¿Qué se busca garantizar al aplicar las directrices de accesibilidad web (Resolución 1519 de 2020 de MinTIC) en plataformas públicas?',
+    texto: '¿Qué se busca garantizar al aplicar las directrices de accesibilidad <em>web</em> (Resolución 1519 de 2020 de MinTIC) en plataformas públicas?',
     correcta: 'b',
     opciones: {
-      a: 'Que la web solo sea accesible desde computadores de escritorio.',
+      a: 'Que la <em>web</em> solo sea accesible desde computadores de escritorio.',
       b: 'Que todas las personas puedan acceder y comprender la información digital.',
-      c: 'Que las páginas web tengan diseños con textos pequeños y complejos.',
+      c: 'Que las páginas <em>web</em> tengan diseños con textos pequeños y complejos.',
       d: 'Que la información pública solo esté disponible en formato impreso.',
     },
     mensaje_correcto:
-      '¡Excelente! La accesibilidad digital elimina barreras en sitios web para garantizar la inclusión de toda la ciudadanía.',
+      '¡Excelente! La accesibilidad digital elimina barreras en sitios <em>web</em> para garantizar la inclusión de toda la ciudadanía.',
     mensaje_incorrecto:
-      'Recuerde que la accesibilidad web busca que los entornos digitales sean usables e inclusivos para todas las personas, independientemente de sus capacidades.',
+      'Recuerde que la accesibilidad <em>web</em> busca que los entornos digitales sean usables e inclusivos para todas las personas, independientemente de sus capacidades.',
   },
   {
     texto: '¿Cuál es la forma recomendada para referirse a la población que ha tenido que abandonar su territorio por causa de situaciones del conflicto armado?',

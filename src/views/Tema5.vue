@@ -7,21 +7,30 @@
         span 5
       h1.
         Indicadores
-    figure.mb-4
-      img(src="@/assets/curso/temas/t5/img1.png" alt="Personas revisando información mediante dispositivos digitales")
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-5.col-8.mb-4.mb-lg-0
+        figure.mb-4
+          img(src="@/assets/curso/temas/t5/img0.png" alt="Personas revisando información mediante dispositivos digitales")
+      .col-lg-7
+        p La implementación de los lenguajes claros, comprensibles e incluyentes requiere mecanismos que permitan verificar su aplicación y conocer los resultados obtenidos. Para ello, las entidades públicas pueden apoyarse en indicadores que faciliten el seguimiento de sus procesos de comunicación y la identificación de oportunidades de mejora.
+        .cajon.color-primario.p-4
+          p.mb-0 El uso de indicadores contribuye a fortalecer la calidad de la comunicación institucional, ya que permite evaluar aspectos relacionados con la claridad de los mensajes, la accesibilidad de la información y la pertinencia de las estrategias utilizadas. En este tema se presentan los principales elementos para comprender su importancia y aplicación en los procesos de comunicación pública.
+    
 
     Separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2.
         5.1 Concepto
+    figure.mb-4
+      img(src="@/assets/curso/temas/t5/img1.png" alt="Personas revisando información mediante dispositivos digitales")
     p.mb-4.
       Los indicadores son herramientas que permiten medir si una acción está alcanzando los resultados esperados. En la comunicación pública, facilitan la observación, medición y evaluación de aspectos relacionados con el uso de lenguajes claros, comprensibles e incluyentes en los mensajes, los canales, las respuestas y las diferentes formas de atención dirigidas a la ciudadanía.
 
     .row.justify-content-center.align-items-stretch.mb-4
-      .col-lg-5.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-8.mb-4.mb-lg-0
         figure.tema5-concepto__imagen.mb-0
           img(src="@/assets/curso/temas/t5/img2.png" alt="Personas analizando información en una tableta")
-      .col-lg-7
+      .col-lg-8
         .cajon.color-secundario.p-4.mb-4
           p.mb-0.
             Un indicador es una señal que a permite revisar avances, dificultades y oportunidades de mejora; las entidades pueden revisar cuántas comunicaciones fueron ajustadas en estos términos, cuántas piezas fueron ajustadas con criterios de accesibilidad o en encuestas saber cuántas personas manifestaron entender y comprender la información que se les brindó.
