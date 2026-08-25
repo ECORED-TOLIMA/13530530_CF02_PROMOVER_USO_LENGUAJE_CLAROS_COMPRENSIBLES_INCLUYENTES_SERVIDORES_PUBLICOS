@@ -178,11 +178,23 @@
 
     .row.justify-content-center.align-items-end
       .col-lg-8.mb-4.mb-lg-0.order-2.order-lg-1
-        p.mb-4.
-          Como cierre de este componente, se presenta un pódcast que recrea una situación cotidiana en una entidad pública. Mediante la conversación entre servidores públicos y ciudadanía, se muestra cómo el reconocimiento de la diversidad, la prevención de la discriminación, la inclusión y la mejora continua permiten transformar la comunicación institucional en una herramienta más clara, accesible y respetuosa para todas las personas:
-        img(src="@/assets/curso/temas/t6/img16.png" alt="Pódcast: Cuando comprender un mensaje también es un derecho")
+        p.mb-4 Como cierre de este componente, se presenta un pódcast que recrea una situación cotidiana en una entidad pública. Mediante la conversación entre servidores públicos y ciudadanía, se muestra cómo el reconocimiento de la diversidad, la prevención de la discriminación, la inclusión y la mejora continua permiten transformar la comunicación institucional en una herramienta más clara, accesible y respetuosa para todas las personas:
+        .bgpodcast.p-4
+          .row.justify-content-center.align-items-center
+            .col-lg-4.d-none.d-lg-block
+              img(src='@/assets/curso/temas/t6/img16.svg', alt='')
+            .col-lg-8
+              p.text-white.mb-0.p-4 Pódcast
+              .tarjeta.clr--pink.p-4.rounded-0.h-100
+                .tarjeta.bg-white.p-4
+                  TarjetaAudio.color-primario.mb-3(
+                  texto="Una comunicación que incluye a todas las personas"
+                  :audio="require_src('@/assets/curso/temas/audio/13530530_CF02_Guion_Podcast_Una comunicación que incluye a todas las personas.mp3')"
+              )
+                  .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
       .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
-        img(src="@/assets/curso/temas/t6/img17.png" alt="Servidor público atendiendo a una ciudadana")
+        img(src='@/assets/curso/temas/t6/img17.png', alt='')
+          
 </template>
 
 <script>
