@@ -12,7 +12,7 @@
     figure.mb-4
       img(src="@/assets/curso/temas/intro/img1.png" alt="")
 
-    p.mb-4 El lenguaje inclusivo y no discriminatorio es aquel que reconoce, visibiliza y valora la diversidad humana a través de las palabras. En la comunicación pública, este lenguaje permite que la información institucional no excluya, invisibilice, ni reproduzca estereotipos sobre las personas o grupos sociales.
+    p.mb-4 El lenguaje inclusivo y no discriminatorio es aquel que reconoce, visibiliza y valora la diversidad humana a través de las palabras. En la comunicación pública, este lenguaje permite que la información institucional no excluya, invisibilice ni reproduzca estereotipos sobre las personas o grupos sociales.
 
     .tarjeta.tarjeta--gris.intro-contexto.p-4.mb-4
       .row.align-items-center
@@ -31,7 +31,7 @@
             span Enlace #[i web]
             i.fas.fa-external-link-alt
 
-    p.mb-4 Este componente formativo permite comprender que el lenguaje no solo sirve para entregar información, también influye en la forma como las personas se sienten reconocidas, orientadas y atendidas. En la comunicación pública, una palabra, una respuesta o una explicación pueden acercar a la ciudadanía, pero también pueden generar distancia cuando no consideran la diversidad de quienes reciben el mensaje.
+    p.mb-4 Este componente formativo permite comprender que el lenguaje no solo sirve para entregar información; también influye en la forma como las personas se sienten reconocidas, orientadas y atendidas. En la comunicación pública, una palabra, una respuesta o una explicación pueden acercar a la ciudadanía, pero también pueden generar distancia cuando no consideran la diversidad de quienes reciben el mensaje.
 
     .row.justify-content-center.mb-4
       .col-lg-10

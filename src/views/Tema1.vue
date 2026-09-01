@@ -89,7 +89,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-10
         .cajon.color-primario.p-4
-          p.mb-0 La comprensión de estas características permite que la diversidad no se toque como un tema aislado y que está presente en cada mensaje, trámite, respuesta campaña o estrategia comunicativa que una entidad genera para la ciudadanía.
+          p.mb-0 La comprensión de estas características permite que la diversidad no se toque como un tema aislado y que este presente en cada mensaje, trámite, respuesta; campaña o estrategia comunicativa que una entidad genera para la ciudadanía.
 
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -102,7 +102,7 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0.
-          Identificar los tipos de diversidad, ayuda a reconocer que las personas requieren de distintas maneras de comunicación, atención y acceso a la información; no se busca clasificar a las ciudadanías, sino que busca facilitar una mirada más amplia y respetuosa de sus realidades.
+          Identificar los tipos de diversidad ayuda a reconocer que las personas requieren de distintas maneras de comunicación, atención y acceso a la información; no se busca clasificar a las ciudadanías, sino que busca facilitar una mirada más amplia y respetuosa de sus realidades.
     p.mb-4.
       Cada tipo de diversidad plantea aspectos que las entidades deben considerar al momento de diseñar y difundir sus comunicaciones. En la siguiente tabla se describen los principales tipos de diversidad y se presentan ejemplos de cómo pueden incorporarse en la comunicación institucional:
     .titulo-sexto.color-acento-contenido.mb-3.mt-4
@@ -139,28 +139,28 @@
             td.
               Diversidad de género y sexual.
             td.
-              Propende por el respeto de las identidades y expresiones de género o las orientaciones sexuales.
+              Propende al respeto de las identidades y expresiones de género o las orientaciones sexuales.
             td.
-              Para evitar supuestos sobre las personas es necesario usar expresiones respetuosas y sobre la base de la humanidad.
+              Para evitar supuestos sobre las personas, es necesario usar expresiones respetuosas y sobre la base de la humanidad.
           tr
             td.
               Diversidad funcional o discapacidad.
             td.
-              Las discapacidades se dan de forma física, sensorial, cognitivas o psicosociales.
+              Las discapacidades se dan de forma física, sensorial, cognitiva o psicosociales.
             td.
-              La entidad debería usar formatos accesibles, textos claros, subtitulados o apoyos visuales
+              La entidad debería usar formatos accesibles, textos claros, subtitulados o apoyos visuales.
           tr
             td.
               Diversidad territorial.
             td.
               Tiene que ver con los lugares donde habitan las personas.
             td.
-              Pensar en qué comunicación usar según si las personas habitan en la zona urbana o rural, tener en cuenta la conectividad y el uso de herramientas tecnológicas
+              Pensar en qué comunicación usar según si las personas habitan en la zona urbana o rural, tener en cuenta la conectividad y el uso de herramientas tecnológicas.
           tr
             td.
               Diversidad social.
             td.
-              Tiene que ver con las condiciones laborales, familiares, educativas y económicas de las personas
+              Tiene que ver con las condiciones laborales, familiares, educativas y económicas de las personas.
             td.
               La entidad debe evitar mensajes que tengan suposiciones de igualdad de recursos, tiempo disponible o conectividad.
     p.mb-4.
@@ -180,7 +180,7 @@
 
     .BG03.px-5.mb-4
       p.mb-4.
-        Finalmente, el reconocimiento persona y laboral de los tipos de diversidad permite la construcción de mensajes más ajustados y pertinentes. Ejemplo de ello es que si la institución crea campañas o mensajes solo para redes sociales no va a poder llegar esa información a las personas con bajo acceso a la internet. Si se crean comunicaciones públicas con los lenguajes técnicos que normalmente se crean en las instituciones difícilmente los lectores podrán comprender la comunicación unas recomendaciones son ajustes de accesibilidad pueden limitar la participación de las personas con alguna condición de discapacidad.
+        Finalmente, el reconocimiento personal y laboral de los tipos de diversidad permite la construcción de mensajes más ajustados y pertinentes. Ejemplo de ello es que, si la institución crea campañas o mensajes solo para redes sociales, no va a poder llegar esa información a las personas con bajo acceso a la internet. Si se crean comunicaciones públicas con los lenguajes técnicos que normalmente se crean en las instituciones, difícilmente los lectores podrán comprender la comunicación. Unas recomendaciones son: los ajustes de accesibilidad pueden limitar la participación de las personas con alguna condición de discapacidad.
       p.mb-0.
         La diversidad debe considerarse en todas las etapas del proceso de comunicación:
 
@@ -215,7 +215,7 @@
       h2.
         1.4 Enfoques
     p.mb-4.
-      Los enfoques permiten mirar la diversidad desde una perspectiva más amplia y no desde una mirada única. Porque no se trata solo de reconocer las diferencias, sino de comprender la manera como estas crean necesidades particulares de comunicación, atención o acceso. Es así, como los enfoques ayudan a las entidades a comunicarse desde una comprensión más cercana con las ciudadanías.
+      Los enfoques permiten mirar la diversidad desde una perspectiva más amplia y no desde una mirada única. Porque no se trata solo de reconocer las diferencias, sino de comprender la manera como estas crean necesidades particulares de comunicación, atención o acceso. Es así como los enfoques ayudan a las entidades a comunicarse desde una comprensión más cercana con las ciudadanías.
     p.mb-4.
       A continuación, se relacionan los enfoques más importantes:
     SlyderF.mb-5(columnas="col-md-6 col-xl-4")
@@ -241,7 +241,7 @@
             img(src="@/assets/curso/temas/t1/img14.svg" alt="")
 
         h5.text-center Enfoque territorial
-        p.mb-5 El lugar donde viven las perdonas influye en el acceso a la información.
+        p.mb-5 El lugar donde viven las personas influye en el acceso a la información.
 
       .tarjeta.BGTARG.p-3.p-lg-5
         .row.justify-content-center.mb-3.mt-4
@@ -311,7 +311,7 @@
             Reconocer la diversidad del país a través del lenguaje permite que la comunicación institucional sea más pertinente. Esto no significa construir un mensaje diferente para cada persona, sino verificar que la información sea comprendida, que contemple un trato respetuoso y si los canales responden a las condiciones de quien recibe el mensaje.
 
     p.mb-4.
-      A continuación, se resume algunas recomendaciones comunicativas de acuerdo con las diferentes poblaciones:
+      A continuación, se resumen algunas recomendaciones comunicativas de acuerdo con las diferentes poblaciones:
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-7.mb-4.mb-lg-0.order-2.order-lg-1
@@ -348,31 +348,31 @@ export default {
       {
         titulo: 'La nueva norma: comunicación respetuosa e inclusiva',
         texto:
-          '<strong>Historia 1</strong><br><br>Comunidades étnicas: respeto cultural y lingüístico',
+          '<strong>Historia 1</strong><br><br>Comunidades étnicas: respeto cultural y lingüístico.',
         imagen: '@/assets/curso/temas/t1/img21.png',
       },
       {
         titulo: 'La nueva norma: comunicación respetuosa e inclusiva',
         texto:
-          '<strong>Historia 2</strong><br><br>Diversidad de género y sexual: expresiones respetuosas',
+          '<strong>Historia 2</strong><br><br>Diversidad de género y sexual: expresiones respetuosas.',
         imagen: '@/assets/curso/temas/t1/img22.png',
       },
       {
         titulo: 'La nueva norma: comunicación respetuosa e inclusiva',
         texto:
-          '<strong>Historia 3</strong><br><br>Niñas, niños y adolescentes: lenguaje claro y adecuado a su edad',
+          '<strong>Historia 3</strong><br><br>Niñas, niños y adolescentes: lenguaje claro y adecuado a su edad.',
         imagen: '@/assets/curso/temas/t1/img23.png',
       },
       {
         titulo: 'La nueva norma: comunicación respetuosa e inclusiva',
         texto:
-          '<strong>Historia 4</strong><br><br>Personas con discapacidad: formatos accesibles y apoyos para la comprensión',
+          '<strong>Historia 4</strong><br><br>Personas con discapacidad: formatos accesibles y apoyos para la comprensión.',
         imagen: '@/assets/curso/temas/t1/img24.png',
       },
       {
         titulo: 'La nueva norma: comunicación respetuosa e inclusiva',
         texto:
-          '<strong>Historia 5</strong><br><br>Población migrante: información clara, sin estigmas y con enfoque de derechos',
+          '<strong>Historia 5</strong><br><br>Población migrante: información clara, sin estigmas y con enfoque de derechos.',
         imagen: '@/assets/curso/temas/t1/img25.png',
       },
     ],

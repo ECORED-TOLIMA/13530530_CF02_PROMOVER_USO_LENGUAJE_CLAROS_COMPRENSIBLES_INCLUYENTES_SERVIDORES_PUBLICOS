@@ -9,7 +9,7 @@
         Inclusión
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.col-8.mb-4.mb-lg-0
-        img(src="@/assets/curso/temas/t4/img1.png" alt="Imagen decorativa")
+        img(src="@/assets/curso/temas/t4/img1.png" alt="")
       .col-lg-7
         .cajon.color-primario.p-4.mb-4
           p.mb-0.
@@ -20,14 +20,14 @@
     .tarjeta.tarjeta--azul.p-4
       .row.justify-content-center.align-items-center
         .col-lg-1.col-md-3.col-6.mb-4.mb-md-0.d-none.d-lg-block
-          img(src="@/assets/curso/temas/t4/img2.svg" alt="Icono de video")
+          img(src="@/assets/curso/temas/t4/img2.svg" alt="")
         .col-lg-9.col-md-6.mb-4.mb-md-0
           p.mb-2
             strong Cómo referirse a una persona con discapacidad
           p.mb-0.
-            El siguiente vídeo de la Función Pública se presenta con el objetivo de tener claridades en términos de inclusión.
+            Los siguientes videos de la Función Pública se presentan con el objetivo de tener claridades en términos de inclusión. 
         .col-lg-2.col-md-3
-          a.boton.color-acento-botones.w-100(href="https://www.funcionpublica.gov.co/web/inclusion-publica/videos" target="_blank" rel="noopener noreferrer")
+          a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/web/inclusion-publica/videos" target="_blank" rel="noopener noreferrer")
             span Abrir video
             i.fas.fa-video
 
@@ -46,7 +46,7 @@
               En la comunicación institucional, la inclusión implica revisar si la información es clara, si el trato es respetuoso y si los canales utilizados permiten que las diferentes poblaciones accedan a los mensajes. Asimismo, supone emplear un lenguaje que evite estereotipos y garantice que ninguna persona o grupo sea excluido por sus condiciones, necesidades o contexto.
         .col-lg-5
           figure.tema4-concepto__imagen.mb-0
-            img(src="@/assets/curso/temas/t4/img3.png" alt="Personas participando en una reunión inclusiva")
+            img(src="@/assets/curso/temas/t4/img3.png" alt="")
 
     p.mb-0.
       Por ejemplo, una convocatoria pública puede ser más inclusiva cuando explica los requisitos paso a paso, usa un lenguaje sencillo, ofrece canales de orientación y contempla formatos accesibles. De esta manera, la información no solo se publica, sino que se entrega pensando en que la ciudadanía pueda entenderla y usarla.
@@ -81,7 +81,7 @@
             td.
               Social.
             td.
-              Todas las personas deben de participar en la vida pública sin ser excluidos.
+              Todas las personas deben participar en la vida pública sin ser excluidos.
             td.
               Usar mensajes que reconozcan distintas realidades sociales y culturales.
           tr
@@ -90,12 +90,12 @@
             td.
               La información debe ser clara, comprensible e incluyente.
             td.
-              Explicar los tramites en un lenguaje claro y específicos.
+              Explicar los trámites en un lenguaje claro y específicos.
           tr
             td.
               Digital.
             td.
-              Promover el acceso a información mediante medio digitales comprensibles y accesibles.
+              Promover el acceso a información mediante medios digitales comprensibles y accesibles.
             td.
               Crear contenidos que puedan consultarse desde el celular y con buena lectura visual.
           tr
@@ -104,7 +104,7 @@
             td.
               Se deben considerar apoyos que faciliten la comprensión y la participación.
             td.
-              Usar formatos accesibles y acorde a la discapacidad.
+              Usar formatos accesibles y acordes a la discapacidad.
           tr
             td.
               Cultural.
@@ -138,7 +138,7 @@
               p.mb-0.
                 Constituye el principio fundamental de la inclusión, ya que toda comunicación emitida por las entidades públicas debe reconocer el valor y la condición de cada persona, sin importar su origen, edad, condición social, cultural, económica o cualquier otra característica. Este principio orienta el uso de un lenguaje respetuoso y un trato que promueva el reconocimiento de los derechos y la igualdad de todas las personas.
             .col-lg-6.col-10.mb-4.mb-lg-0.order-1.order-lg-2
-              img(src="@/assets/curso/temas/t4/img5.png" alt="Personas participando en un entorno laboral inclusivo")
+              img(src="@/assets/curso/temas/t4/img5.png" alt="")
 
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0.order-2.order-lg-1
@@ -146,7 +146,7 @@
               p.mb-0.
                 Orienta a las entidades a evitar tratos desiguales, expresiones excluyentes o mensajes que refuercen estereotipos y prejuicios. Su aplicación implica que la comunicación institucional ofrezca las mismas oportunidades de acceso a la información y garantice un trato respetuoso para todas las personas, reconociendo sus diferencias sin convertirlas en motivos de exclusión.
             .col-lg-6.col-10.mb-4.mb-lg-0.order-1.order-lg-2
-              img(src="@/assets/curso/temas/t4/img6.png" alt="Personas expresando igualdad y respeto")
+              img(src="@/assets/curso/temas/t4/img6.png" alt="")
 
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0.order-2.order-lg-1
@@ -154,7 +154,7 @@
               p.mb-0.
                 Es un principio que busca que la información pueda ser encontrada, consultada, comprendida y utilizada por todas las personas, independientemente de sus condiciones o capacidades. Para ello, es necesario emplear un lenguaje claro, formatos accesibles, apoyos visuales, subtítulos, recursos tecnológicos y otros mecanismos que faciliten el acceso a la información y reduzcan las barreras comunicativas.
             .col-lg-6.col-10.mb-4.mb-lg-0.order-1.order-lg-2
-              img(src="@/assets/curso/temas/t4/img7.png" alt="Accesibilidad en la comunicación")
+              img(src="@/assets/curso/temas/t4/img7.png" alt="")
 
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0.order-2.order-lg-1
@@ -162,16 +162,16 @@
               p.mb-0.
                 Se entiende como la posibilidad de que las personas no solo reciban información, sino que también puedan interactuar con las entidades, formular preguntas, expresar sus opiniones, presentar observaciones y ejercer sus derechos. Una comunicación incluyente fomenta espacios de diálogo y retroalimentación que fortalecen la confianza entre la ciudadanía y las instituciones.
             .col-lg-6.col-10.mb-4.mb-lg-0.order-1.order-lg-2
-              img(src="@/assets/curso/temas/t4/img8.png" alt="Participación ciudadana incluyente")
+              img(src="@/assets/curso/temas/t4/img8.png" alt="")
 
     Separador
     #t_4_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2.
-        4.4 normatividad vigente
+        4.4 Normatividad vigente
     p.mb-4.
       La inclusión en la comunicación pública se sustenta en un conjunto de normas que promueven el respeto por los derechos, la igualdad, la accesibilidad y el acceso a la información. En Colombia, diferentes disposiciones legales orientan a las entidades para desarrollar procesos de comunicación más incluyentes y garantizar que todas las personas puedan ejercer sus derechos en condiciones de equidad.
     p.mb-4.
-      A continuación, se nombran normas y se describe como estas se relacionan con la inclusión comunicativa:
+      A continuación, se nombran normas y se describe cómo estas se relacionan con la inclusión comunicativa:
 
     .BG01.px-4.px-md-5.py-5.mb-5
       .tarjeta.bgwhite.p-4.p-lg-5
@@ -182,44 +182,44 @@
               p.mb-0.
                 Aprueba la Convención sobre los Derechos de las Personas con Discapacidad e incorpora el compromiso de garantizar la igualdad de oportunidades y la accesibilidad. En materia de comunicación, promueve la eliminación de barreras para que las personas con discapacidad puedan acceder a la información y a los servicios públicos en igualdad de condiciones.
             .col-lg-6.col-10.mb-4.mb-lg-0.order-1.order-lg-2
-              img(src="@/assets/curso/temas/t4/img9.png" alt="Elementos representativos del marco legal")
+              img(src="@/assets/curso/temas/t4/img9.png" alt="")
           .row.justify-content-center.align-items-center(titulo="")
             .col-lg-6.mb-4.mb-lg-0.order-2.order-lg-1
-              h5.mb-4 Ley 1482 de 2011
+              h5.mb-4 Ley 1482 de 2011, modificada por la Ley 1752 de 2015
               p.mb-0.
                 Establece medidas para prevenir, sancionar y erradicar los actos de discriminación por razones de raza, etnia, religión, nacionalidad, ideología, orientación sexual, discapacidad u otras condiciones. Su aplicación orienta a las entidades a emplear un lenguaje respetuoso y a evitar mensajes o prácticas que puedan generar exclusión o vulnerar la dignidad de las personas.
             .col-lg-6.col-10.mb-4.mb-lg-0.order-1.order-lg-2
-              img(src="@/assets/curso/temas/t4/img10.png" alt="Representación de igualdad y no discriminación")
+              img(src="@/assets/curso/temas/t4/img10.png" alt="")
           .row.justify-content-center.align-items-center(titulo="")
             .col-lg-6.mb-4.mb-lg-0.order-2.order-lg-1
               h5.mb-4 Ley 1618 de 2013
               p.mb-0.
                 Desarrolla mecanismos para garantizar el ejercicio pleno de los derechos de las personas con discapacidad. En el ámbito de la comunicación, promueve el uso de formatos accesibles, ajustes razonables y recursos que faciliten el acceso, la comprensión y el uso de la información.
             .col-lg-6.col-10.mb-4.mb-lg-0.order-1.order-lg-2
-              img(src="@/assets/curso/temas/t4/img11.png" alt="Representación de accesibilidad e inclusión")
+              img(src="@/assets/curso/temas/t4/img11.png" alt="")
           .row.justify-content-center.align-items-center(titulo="")
             .col-lg-6.mb-4.mb-lg-0.order-2.order-lg-1
-              h5.mb-4 Ley 1712 de 2014
+              h5.mb-4 Ley 1712 de 2014, modificada por la Ley 2195 de 2022
               p.mb-0.
                 Regula el derecho de acceso a la información pública y el principio de transparencia. Esta norma impulsa a las entidades a divulgar información de manera clara, oportuna y accesible, facilitando que la ciudadanía conozca y ejerza sus derechos.
             .col-lg-6.col-10.mb-4.mb-lg-0.order-1.order-lg-2
-              img(src="@/assets/curso/temas/t4/img12.png" alt="Representación del acceso a la información pública")
+              img(src="@/assets/curso/temas/t4/img12.png" alt="")
           .row.justify-content-center.align-items-center(titulo="")
             .col-lg-6.mb-4.mb-lg-0.order-2.order-lg-1
               h5.mb-4 Ley 1755 de 2015
               p.mb-0.
                 Regula el derecho fundamental de petición y establece los lineamientos para la atención de las solicitudes presentadas por la ciudadanía. Su cumplimiento implica ofrecer respuestas claras, comprensibles, oportunas y acordes con las necesidades de quienes requieren información o realizan trámites ante las entidades públicas.
             .col-lg-6.col-10.mb-4.mb-lg-0.order-1.order-lg-2
-              img(src="@/assets/curso/temas/t4/img13.png" alt="Representación del derecho de petición")
+              img(src="@/assets/curso/temas/t4/img13.png" alt="")
           .row.justify-content-center.align-items-center(titulo="")
             .col-lg-6.mb-4.mb-lg-0.order-2.order-lg-1
               h5.mb-4 Lineamientos institucionales del SENA – Guía de lenguajes claros, comprensibles e incluyentes (versión 2)
               p.mb-0.
                 Orientan a los servidores públicos en el diseño de comunicaciones institucionales que utilicen un lenguaje sencillo, respetuoso e incluyente. Estos lineamientos promueven la eliminación de barreras comunicativas y fortalecen el acceso de la ciudadanía a la información y a los servicios institucionales.
             .col-lg-6.col-10.mb-4.mb-lg-0.order-1.order-lg-2
-              img(src="@/assets/curso/temas/t4/img14.png" alt="Representación de los lineamientos institucionales")
+              img(src="@/assets/curso/temas/t4/img14.png" alt="")
     p.mb-4.
-      Para complementar la normativa previa, la siguiente tabla relaciona el marco normativo que sustenta la estructura de la comunicación entre el Estado y la ciudadanía en referencia a los lenguajes claros comprensibles e incluyentes:
+      Para complementar la normativa previa, la siguiente tabla relaciona el marco normativo que sustenta la estructura de la comunicación entre el Estado y la ciudadanía en referencia a los lenguajes claros, comprensibles e incluyentes:
     .titulo-sexto.color-acento-contenido.mb-3.mt-4
       h5.
         Tabla 5.
@@ -238,10 +238,10 @@
             td.
               Constitución Política de Colombia.
             td.
-              Artículos 2 y 9. Establecen los fines del Estado en Constitución Política de Colombia función del interés general.
+              Artículos 2 y 9. Establecen los fines del Estado en la Constitución Política de Colombia, función del interés general.
           tr
             td.
-              Decreto 2623 de 2009.
+              Decreto 2623 de 2009, modificado por el Decreto 1499 de 2017 y parcialmente derogado por el Decreto 1002 de 2022.
             td.
               Crea el Sistema Nacional de Servicio al Ciudadano.
           tr
@@ -256,7 +256,7 @@
               Política de Rendición de Cuentas de la Rama Ejecutiva a la Ciudadanía.
           tr
             td.
-              Ley 1448 de 2011.
+              Ley 1448 de 2011, modificada por la Ley 2421 de 2024.
             td.
               Artículo 13. Incorpora el principio de enfoque diferencial en todas las acciones del Estado dirigidas a la población.
           tr
@@ -266,7 +266,7 @@
               Política Nacional de Eficiencia Administrativa al Servicio de la Ciudadanía.
           tr
             td.
-              Ley 1712 de 2014.
+              Ley 1712 de 2014, modificada por la Ley 2195 de 2022.
             td.
               Ley de Transparencia y Acceso a la Información Pública.
           tr
@@ -292,13 +292,13 @@
     .tarjeta.tema2-descarga.p-4.mb-4
       .row.justify-content-center.align-items-center
         .col-lg-1.col-md-2.col-4.mb-4.mb-md-0.d-none.d-lg-block
-          img(src="@/assets/curso/temas/t4/img15.svg" alt="Icono de video")
+          img(src="@/assets/curso/temas/t4/img15.svg" alt="")
         .col-lg-9.col-md-7.mb-4.mb-md-0
           h5.mb-2 Ley 1712 de 2014
           p.mb-0.
             Para complementar el contexto normativo, se presenta el siguiente video, en el que se explican los aspectos fundamentales de la Ley 1712 de 2014, conocida como la Ley de Transparencia y del Derecho de Acceso a la Información Pública Nacional.
         .col-lg-2.col-md-3
-          a.boton.color-acento-botones.w-100(href="https://www.youtube.com/watch?v=hnPc2hBP-mg" target="_blank" rel="noopener noreferrer")
+          a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=hnPc2hBP-mg" target="_blank" rel="noopener noreferrer")
             span Abrir video
             i.fas.fa-video
     p.mb-4.

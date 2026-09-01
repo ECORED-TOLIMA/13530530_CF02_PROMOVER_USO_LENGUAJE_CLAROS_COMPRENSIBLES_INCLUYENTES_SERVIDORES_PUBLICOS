@@ -36,7 +36,7 @@
           En este sentido, el enfoque diferencial permite comprender las realidades de las personas a partir de sus contextos, condiciones y necesidades. Reconoce que no todas las ciudadanías viven las mismas situaciones ni enfrentan las mismas barreras. Por ejemplo, una persona con discapacidad, una víctima del conflicto armado, una comunidad étnica o una persona migrante pueden requerir ajustes en el lenguaje, los formatos, los canales o la forma en que se comunica la información para facilitar su acceso y comprensión.
         .cajon.color-secundario.p-4
           p.mb-0.
-            Aplicar el enfoque diferencial en las comunicaciones públicas significa reconocer las diferencias y evitar que se conviertan en obstáculos, la intención no es crear privilegios, sino que se generen condiciones más justas para que la información pueda ser comprendida y utilizada desde una mirada de la pertinencia, el respeto y la inclusión. No se trata solamente de lo que la entidad necesita decir, sino desde lo que la ciudadanía necesita comprender.
+            Aplicar el enfoque diferencial en las comunicaciones públicas significa reconocer las diferencias y evitar que se conviertan en obstáculos; la intención no es crear privilegios, sino que se generen condiciones más justas para que la información pueda ser comprendida y utilizada desde una mirada de la pertinencia, el respeto y la inclusión. No se trata solamente de lo que la entidad necesita decir, sino de lo que la ciudadanía necesita comprender.
     p.mb-4.
       La aplicación del enfoque diferencial transforma la manera en que las entidades diseñan y comunican la información. Mientras una comunicación sin este enfoque suele asumir que todas las personas tienen las mismas condiciones para acceder y comprender los mensajes, una comunicación con enfoque diferencial reconoce las distintas necesidades de la ciudadanía y realiza los ajustes necesarios para facilitar el acceso, la comprensión y el ejercicio de los derechos. La siguiente tabla presenta algunas diferencias entre ambas formas de comunicar:
     .titulo-sexto.color-acento-contenido.mb-3.mt-4
@@ -60,14 +60,14 @@
               Se realizan los ajustes en el lenguaje o canal según las necesidades de la población.
           tr
             td.
-              Se asume de que, si yo entendí el mensaje, todos lo pueden entender.
+              Se asume que, si yo entendí el mensaje, todos lo pueden entender.
             td.
               Se reconoce que existen muchas formas de acceder e interpretar la información.
           tr
             td.
               Se le da prioridad a la información desde la entidad.
             td.
-              Se organiza el mensaje pensando en quien lo va a recibir.
+              Se organiza el mensaje pensando en quién lo va a recibir.
 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -94,7 +94,7 @@
         figure.mb-0
           img(src="@/assets/curso/temas/t2/img4.png" alt="")
     p.mb-0.
-      A modo de síntesis, el enfoque diferencial permite que la comunicación se consolide desde miradas más cercanas a las ciudadanías; reconocer las condiciones particulares de las personas, puede reducir barreras, evitar exclusiones y fortalecer el acceso a la información.
+      A modo de síntesis, el enfoque diferencial permite que la comunicación se consolide desde miradas más cercanas a las ciudadanías; reconocer las condiciones particulares de las personas puede reducir barreras, evitar exclusiones y fortalecer el acceso a la información.
 </template>
 
 <script>

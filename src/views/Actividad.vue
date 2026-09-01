@@ -315,9 +315,9 @@ export default {
     cuestionario: {
       tema: 'Lenguaje inclusivo y mejora comunicativa',
       titulo:
-        'Reconociendo el lenguaje inclusivo, la diversidad y la mejora comunicativa',
+        'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Identificar conceptos y situaciones relacionadas con diversidad, enfoque diferencial, discriminación, inclusión, indicadores y plan de mejoramiento, para fortalecer la comprensión sobre el uso de lenguajes claros, comprensibles e incluyentes en servidores públicos.',
+        '<b>Objetivo:</b> identificar conceptos y situaciones relacionadas con diversidad, enfoque diferencial, discriminación, inclusión, indicadores y plan de mejoramiento, para fortalecer la comprensión sobre el uso de lenguajes claros, comprensibles e incluyentes en servidores públicos.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',

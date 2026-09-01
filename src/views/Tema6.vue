@@ -6,16 +6,16 @@
       .titulo-principal__numero
         span 6
       h1.
-        Plan de mejoramiento en el uso lenguajes claros, comprensibles e inclusivos
+        Plan de mejoramiento en el uso de lenguajes claros, comprensibles e inclusivos
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.col-8.mb-4.mb-lg-0
-        img(src="@/assets/curso/temas/t6/img1.png" alt="Personas dialogando sobre acciones de mejoramiento")
+        img(src="@/assets/curso/temas/t6/img1.png" alt="")
       .col-lg-7
         .cajon.color-secundario.p-4.mb-4
           p.mb-0.
-            El plan de mejoramiento permite organizar acciones para fortalecer la comunicación institucional en servidores públicos. Después de medir los indicadores y revisar cómo se está usando los lenguajes claros, comprensibles e inclusivos, es importante definir qué se debe mantener, qué se debe corregir y qué se puede mejorar.
+            El plan de mejoramiento permite organizar acciones para fortalecer la comunicación institucional en servidores públicos. Después de medir los indicadores y revisar cómo se estan usando los lenguajes claros, comprensibles e inclusivos, es importante definir qué se debe mantener, qué se debe corregir y qué se puede mejorar.
         p.mb-0.
-          En la comunicación pública, aplicar un plan de mejoramiento no significa cambiar todo el proceso de manera inmediata; significa, primero identificar las situaciones que afectan la comprensión, el acceso o el trato hacia las personas, y proponer acciones de mejora. Por ejemplo, capacitar al personal responsable de comunicarse con la ciudadanía, revisar una pieza grafica antes de que sea divulgada, mejorar un canal de atención y verificar que sea el adecuado de acuerdo con la condición de la persona que recibe la información.
+          En la comunicación pública, aplicar un plan de mejoramiento no significa cambiar todo el proceso de manera inmediata; significa, primero, identificar las situaciones que afectan la comprensión, el acceso o el trato hacia las personas, y proponer acciones de mejora. Por ejemplo, capacitar al personal responsable de comunicarse con la ciudadanía, revisar una pieza gráfica antes de que sea divulgada, mejorar un canal de atención y verificar que sea el adecuado de acuerdo con la condición de la persona que recibe la información.
 
     Separador
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -23,14 +23,14 @@
         6.1 Acciones preventivas
 
     figure.mb-4
-      img(src="@/assets/curso/temas/t6/img2.png" alt="Personas dialogando en un entorno de trabajo")
+      img(src="@/assets/curso/temas/t6/img2.png" alt="")
 
     .row.align-items-center.mb-4
       .col-lg-1.col-md-2.col-4.mb-3.mb-md-0.d-none.d-lg-block
-        img(src="@/assets/curso/temas/t6/img3.svg" alt="Icono de acción preventiva")
+        img(src="@/assets/curso/temas/t6/img3.svg" alt="")
       .col-lg-11.col-md-10
         p.mb-0.
-          Las acciones preventivas tienen como objetivo evitar que se presenten dificultades en la comunicación a futuro. En el uso del lenguajes claros, comprensibles e inclusivos, estas acciones permiten anticipar posibles barreras, verificar que los mensajes cumplan con las condiciones antes de ser publicados y preparar orientaciones para que la información llegue de manera más clara y respetuosa.
+          Las acciones preventivas tienen como objetivo evitar que se presenten dificultades en la comunicación a futuro. En el uso de lenguajes claros, comprensibles e inclusivos, estas acciones permiten anticipar posibles barreras, verificar que los mensajes cumplan con las condiciones antes de ser publicados y preparar orientaciones para que la información llegue de manera más clara y respetuosa.
 
     .row.justify-content-center.mb-4
       .col-lg-10
@@ -76,10 +76,10 @@
       .row.g-0.align-items-stretch
         .col-lg-5
           figure.tema6-correctiva-intro__imagen.mb-0
-            img(src="@/assets/curso/temas/t6/img8.png" alt="Personas revisando una comunicación institucional")
+            img(src="@/assets/curso/temas/t6/img8.png" alt="")
         .col-lg-7.d-flex.align-items-center
           .p-4.p-lg-5
-            img.tema6-correctiva-intro__icono.mb-4.d-none.d-lg-block(src="@/assets/curso/temas/t6/img9.svg" alt="Icono de documento")
+            img.tema6-correctiva-intro__icono.mb-4.d-none.d-lg-block(src="@/assets/curso/temas/t6/img9.svg" alt="")
             p.mb-0.
               Por ejemplo, si una entidad identifica que un documento contiene tecnicismos que dificultan su comprensión, la acción correctiva puede consistir en reescribir el contenido utilizando un lenguaje claro y comprensible. De igual forma, si una pieza comunicativa incluye expresiones discriminatorias o excluyentes, la acción correctiva implica retirarla, realizar los ajustes necesarios y revisar el proceso que permitió su publicación para prevenir situaciones similares.
 
@@ -95,7 +95,7 @@
       .col-lg-6
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src="@/assets/curso/temas/t6/img10.svg" alt="Icono de reescritura de documentos")
+            img(src="@/assets/curso/temas/t6/img10.svg" alt="")
           .tarjeta.tarjeta--azul.tema6-correctiva.h-100
             .p-4
               h5 Reescribir documentos con lenguaje claro
@@ -104,7 +104,7 @@
       .col-lg-6
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src="@/assets/curso/temas/t6/img11.svg" alt="Icono de ajuste de piezas comunicativas")
+            img(src="@/assets/curso/temas/t6/img11.svg" alt="")
           .tarjeta.tarjeta--azul.tema6-correctiva.h-100
             .p-4
               h5 Retirar y ajustar piezas comunicativas con errores
@@ -113,7 +113,7 @@
       .col-lg-6
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src="@/assets/curso/temas/t6/img12.svg" alt="Icono de corrección de formatos accesibles")
+            img(src="@/assets/curso/temas/t6/img12.svg" alt="")
           .tarjeta.tarjeta--azul.tema6-correctiva.h-100
             .p-4
               h5 Corregir formatos o recursos que no sean accesibles
@@ -122,7 +122,7 @@
       .col-lg-6
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src="@/assets/curso/temas/t6/img13.svg" alt="Icono de revisión de causas")
+            img(src="@/assets/curso/temas/t6/img13.svg" alt="")
           .tarjeta.tarjeta--azul.tema6-correctiva.h-100
             .p-4
               h5 Revisar las causas que originaron la dificultad
@@ -144,13 +144,13 @@
               Estas acciones pueden surgir a partir del análisis de indicadores, los resultados de encuestas de satisfacción, la revisión de documentos, las observaciones de los equipos de trabajo o la retroalimentación proporcionada por la ciudadanía. Por ejemplo, una entidad puede mejorar la redacción de sus respuestas mediante la elaboración de modelos de comunicación en lenguaje claro, la actualización de los protocolos de atención o la incorporación de criterios de accesibilidad en sus piezas comunicativas.
         .col-lg-6
           figure.tema5-evidencias__imagen.mb-0
-            img(src="@/assets/curso/temas/t6/img14.png" alt="Personas dialogando para mejorar los procesos de comunicación")
+            img(src="@/assets/curso/temas/t6/img14.png" alt="")
     p.mb-4.
       A continuación, se presentan algunas acciones de mejora y los resultados que se espera alcanzar con su implementación en los procesos de comunicación institucional:
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4.col-8.mb-4.mb-lg-0
-        img(src="@/assets/curso/temas/t6/img15.png" alt="Personas revisando documentos para mejorar la comunicación")
+        img(src="@/assets/curso/temas/t6/img15.png" alt="")
       .col-lg-8
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Construir modelos de respuesta en lenguaje claro")
@@ -174,7 +174,7 @@
       .col-lg-10
         .cajon.color-primario.p-4
           p.mb-0.
-            En resumen, el plan de mejoramiento es una herramienta que permite trazar una ruta que fortalezca la comunicación. Las acciones preventivas ayudan a evitar dificultades; las correctivas permiten solucionar problemas identificados; y las accione de mejora fortalecen de manera constante el uso de lenguajes claros, comprensibles e inclusivos.
+            En resumen, el plan de mejoramiento es una herramienta que permite trazar una ruta que fortalezca la comunicación. Las acciones preventivas ayudan a evitar dificultades; las correctivas permiten solucionar problemas identificados; y las acciones de mejora fortalecen de manera constante el uso de lenguajes claros, comprensibles e inclusivos.
 
     .row.justify-content-center.align-items-end
       .col-lg-8.mb-4.mb-lg-0.order-2.order-lg-1

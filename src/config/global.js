@@ -103,7 +103,7 @@ export default {
         nombreRuta: 'tema6',
         numero: '6',
         titulo:
-          'Plan de mejoramiento en el uso lenguajes claros, comprensibles e inclusivos',
+          'Plan de mejoramiento en el uso de lenguajes claros, comprensibles e inclusivos',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -150,7 +150,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/13530530_CF02_CFA_DU.pdf',
+        download: 'downloads/13530530_CF02_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -228,7 +228,7 @@ export default {
     {
       termino: 'Servidor público',
       significado:
-        'Persona que cumple funciones al servicio del estado y tiene la responsabilidad de atender, orientar o comunicarse con la ciudadanía.',
+        'Persona que cumple funciones al servicio del Estado y tiene la responsabilidad de atender, orientar o comunicarse con la ciudadanía.',
     },
   ],
   referencias: [
@@ -323,12 +323,12 @@ export default {
         },
         {
           nombre: 'Hugo Armando López',
-          cargo: 'Experta temátic0',
+          cargo: 'Experta temático',
           centro: 'Centro Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Evaluadora instruccional',
+          cargo: 'Evaluador instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -336,6 +336,11 @@ export default {
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
+        {
+          nombre: 'Oscar Ivan Uribe Ortiz ',
+          cargo: 'Diseñador de contenidos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
         {
           nombre: 'José Jaime Luis Tang Pinzón',
           cargo: 'Diseñador de contenidos digitales',
@@ -357,8 +362,8 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'María Fernanda Pineda Mora',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          nombre: 'Jorge Eduardo Rueda Peña',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {

@@ -34,7 +34,7 @@
             img.tema1-definicion__icono(src="@/assets/curso/temas/t3/img3.svg" alt="")
           .col
             p.mb-0.
-              Ejemplo de ello; una entidad puede estar generando discriminación cuando usa expresiones o términos que llevan a la infantilización a las personas mayores, se ridiculizan a las personas con alguna condición de discapacidad o relacionan a la población migrante con ideas y subjetividades negativas. Para estos casos, el problema no radica solo en las palabras utilizadas, sino también, en el mensaje que se transmite y en el efecto que puede causar en la persona que lo recibe.
+              Ejemplo de ello: una entidad puede estar generando discriminación cuando usa expresiones o términos que llevan a la infantilización a las personas mayores, se ridiculiza a las personas con alguna condición de discapacidad o se relacionan a la población migrante con ideas y subjetividades negativas. Para estos casos, el problema no radica solo en las palabras utilizadas, sino también en el mensaje que se transmite y en el efecto que puede causar en la persona que lo recibe.
       .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure.h-100.mb-0
           img.h-100.w-100(src="@/assets/curso/temas/t3/img2.png" alt="" style="object-fit: cover")
@@ -46,7 +46,7 @@
     figure.mb-4
       img(src="@/assets/curso/temas/t3/img4.png" alt="")
     p.mb-4.
-      La discriminación puede presentarse en diferentes maneras. Algunas pueden ser directas y evidentes; otras muy sutiles y se mantienen en expresiones, hábitos o prácticas cotidianas. A continuación, se asocia una tabla con el tipo de discriminación, su respectiva descripción y con un ejemplo de cómo se aplica en la comunicación:
+      La discriminación puede presentarse de diferentes maneras. Algunas pueden ser directas y evidentes; otras, muy sutiles, y se mantienen en expresiones, hábitos o prácticas cotidianas. A continuación, se asocia una tabla con el tipo de discriminación, su respectiva descripción y con un ejemplo de cómo se aplica en la comunicación:
     .titulo-sexto.color-acento-contenido.mb-3.mt-4
       h5.
         Tabla 3.
@@ -83,12 +83,12 @@
             td.
               Se produce cuando se excluye o se estereotipa a una persona por su género.
             td.
-              Utilizar expresiones que asumen que ciertos cargos o roles son solo de hombre o mujeres.
+              Utilizar expresiones que asumen que ciertos cargos o roles son solo de hombres o mujeres.
           tr
             td.
               Étnica o cultura.
             td.
-              Aparecen cuando se desconoce la lengua, practicas o identidades culturales.
+              Aparecen cuando se desconoce la lengua, las practicas o las identidades culturales.
             td.
               Utilizar mensajes que ridiculicen acentos, costumbres o formas de expresión.
           tr
@@ -118,15 +118,15 @@
       h2.
         3.3 Características
     p.mb-4.
-      La discriminación en la comunicación tiene algunas características que ayudan a identificarla. A continuación, se describen cada una de ellas:
+      La discriminación en la comunicación tiene algunas características que ayudan a identificarla. A continuación, se describe cada una de ellas:
     .row.justify-content-center.mb-5
       .col-lg-3.col-md-6.mb-4
         .tarjeta-numerada.tema3-caracteristica--1.h-100.p-5
           .tarjeta-numerada__numero
             .h2 1
-          h5.text-center Explicita
+          h5.text-center Explícita
           p.text-center.mb-0.
-            Puede ser explicita cuando aparca de manera directa en una expresión ofensiva, excluyente o despectiva.
+            Puede ser explicíta cuando aparece de manera directa en una expresión ofensiva, excluyente o despectiva.
       .col-lg-3.col-md-6.mb-4
         .tarjeta-numerada.tema3-caracteristica--2.h-100.p-5
           .tarjeta-numerada__numero
@@ -140,7 +140,7 @@
             .h2 3
           h5.text-center Repetitiva
           p.text-center.mb-0.
-            Muchas expresiones discriminatorias se usan por costumbre y se normaliza en el lenguaje cotidiano.
+            Muchas expresiones discriminatorias se usan por costumbre y se normalizan en el lenguaje cotidiano.
       .col-lg-3.col-md-6.mb-4
         .tarjeta-numerada.tema3-caracteristica--4.h-100.p-5
           .tarjeta-numerada__numero
@@ -155,7 +155,7 @@
       .col-lg-9
         .cajon.color-secundario.p-4
           p.mb-0.
-            Identificar estas características antes de divulgar mensajes institucionales permiten que la comunicación sea más incluyente, respetuosa, precisa y consciente.
+            Identificar estas características antes de divulgar mensajes institucionales permite que la comunicación sea más incluyente, respetuosa, precisa y consciente.
     p.mb-4.
       Las características de la discriminación pueden identificarse en diferentes momentos y formas de la comunicación institucional. La siguiente imagen presenta, de manera gráfica, las principales características que permiten reconocer expresiones o prácticas discriminatorias y resalta la importancia de prevenirlas para promover mensajes más respetuosos e incluyentes:
     .row.justify-content-center
@@ -186,9 +186,9 @@
               img.tema1-apertura__icono.mb-4(src="@/assets/curso/temas/t3/img8.svg" alt="")
             .col-12
               p.mb-4.
-                El lenguaje discriminatorio puede aparecer en distintos procesos comunicativos como: conversaciones, respuestas institucionales, formularios, campañas, llamadas, publicaciones digitales o en los servicios de atención personal. En algunas ocasiones se da en expresiones muy evidentes y en algunas oportunidades se encuentran en frases que parecen amables, pero pueden resultar inadecuados para el contexto institucional.
+                El lenguaje discriminatorio puede aparecer en distintos procesos comunicativos como conversaciones, respuestas institucionales, formularios, campañas, llamadas, publicaciones digitales o en los servicios de atención personal. En algunas ocasiones se da en expresiones muy evidentes y en algunas oportunidades se encuentran en frases que parecen amables, pero pueden resultar inadecuadas para el contexto institucional.
               p.mb-0.
-                Algunos ejemplos de los lenguajes discriminatorios, son el uso de palabras como abuelito, minusválido, ilegal, invalido; lo cual pueden llevar a la afectación del cómo se reconoce a las personas. Aunque muchos casos se realizan estas palabras en todo nos cercanos, la comunicación pública conviene realizarla en términos empáticos y respetuosos.
+                Algunos ejemplos de los lenguajes discriminatorios son el uso de palabras como abuelito, minusválido, ilegal, inválido; lo cual puede llevar a la afectación de cómo se reconoce a las personas. Aunque en muchos casos se realizan estas palabras en todo lo que rodea a las personas, la comunicación pública conviene realizarla en términos empáticos y respetuosos.
     p.mb-4.
       Basado en lo anterior, se relacionan las expresiones que se deben evitar y las alternativas recomendadas para hacerlo:
 
@@ -250,7 +250,7 @@
                 |  personas con discapacidad auditiva.
 
     p.mb-4.
-      El cuidado del lenguaje también debe evitar el uso de las generalizaciones: no todas las personas migrantes viven la misma situación, no todas las personas mayores requieren el mismo apoyo, no todas las personas con alguna condición de discapacidad poseen las mismas necesidades comunicativas; por eso la comunicación institucional debe evitar las suposiciones y procurar por mensajes respetuosos, claros y ajustados al contexto. Algunos ejemplos de preguntas que se deben realizar en el antes, es decir, en la preparación del mensaje son:
+      El cuidado del lenguaje también debe evitar el uso de las generalizaciones: no todas las personas migrantes viven la misma situación, no todas las personas mayores requieren el mismo apoyo, no todas las personas con alguna condición de discapacidad poseen las mismas necesidades comunicativas; por eso la comunicación institucional debe evitar las suposiciones y procurar por mensajes respetuosos, claros y ajustados al contexto. Algunos ejemplos de preguntas que se deben realizar en el antes, es decir, en la preparación del mensaje, son:
     .row.align-items-stretch.justify-content-center
       .col-lg-7.mb-4.mb-lg-0.order-2.order-lg-1
         ol.lista-ol--cuadro.lista-ol--separador.mb-4
@@ -268,7 +268,7 @@
             | ¿El mensaje excluye a algún grupo? Revisar si todas las personas pueden sentirse reconocidas.
         .cajon.color-secundario.p-4
           p.mb-0.
-            Finalmente, la comprensión y el uso de un lenguaje empático y respetuoso pasa por la revisión de las formas en las que se piensa y se relacionan con el mundo y el entorno. Cuando las entidades gubernamentales se comunican con las personas sin estigmatizarlas, se fortalece la confianza, se mejora la atención y se avanza hacia una relación más incluyente y participativa entre las entidades y las ciudadanías.
+            Finalmente, la comprensión y el uso de un lenguaje empático y respetuoso pasan por la revisión de las formas en las que se piensa y se relaciona con el mundo y el entorno. Cuando las entidades gubernamentales se comunican con las personas sin estigmatizarlas, se fortalece la confianza, se mejora la atención y se avanza hacia una relación más incluyente y participativa entre las entidades y las ciudadanías.
       .col-lg-5.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure.h-100.mb-0
           img.h-100.w-100(src="@/assets/curso/temas/t3/img17.png" alt="" style="object-fit: cover")
