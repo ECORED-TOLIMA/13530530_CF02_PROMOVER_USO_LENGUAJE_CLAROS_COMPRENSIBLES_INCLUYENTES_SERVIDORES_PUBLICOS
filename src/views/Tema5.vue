@@ -108,7 +108,7 @@
       h2.
         5.2 Características
     p.mb-4.
-      Los indicadores deben ser claros, útiles y medibles; si al momento de crearlos quedan muy amplios, ambiguos, difíciles de verificar o confusos pueden generar datos poco útiles para la toma de decisiones. Es por eso que su formulación debe ser sencilla y tener relación directa con los procesos que busca mejorar.
+      Los indicadores deben ser claros, útiles y medibles; si al momento de crearlos quedan muy amplios, ambiguos, difíciles de verificar o confusos, pueden generar datos poco útiles para la toma de decisiones. Es por eso que su formulación debe ser sencilla y tener relación directa con los procesos que busca mejorar.
     p.mb-4.
       Las siguientes son las características que deben tener:
 

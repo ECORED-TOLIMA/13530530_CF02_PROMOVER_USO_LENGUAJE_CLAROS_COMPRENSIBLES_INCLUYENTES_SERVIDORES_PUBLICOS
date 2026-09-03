@@ -323,7 +323,7 @@ export default {
         },
         {
           nombre: 'Hugo Armando López',
-          cargo: 'Experta temático',
+          cargo: 'Experto temático',
           centro: 'Centro Servicios de Salud - Regional Antioquia',
         },
         {

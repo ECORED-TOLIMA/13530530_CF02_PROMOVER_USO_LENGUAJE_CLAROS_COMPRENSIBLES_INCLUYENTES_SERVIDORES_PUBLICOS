@@ -89,7 +89,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-10
         .cajon.color-primario.p-4
-          p.mb-0 La comprensión de estas características permite que la diversidad no se toque como un tema aislado y que este presente en cada mensaje, trámite, respuesta; campaña o estrategia comunicativa que una entidad genera para la ciudadanía.
+          p.mb-0 La comprensión de estas características permite que la diversidad no se toque como un tema aislado y que esté presente en cada mensaje, trámite, respuesta, campaña o estrategia comunicativa que una entidad genera para la ciudadanía.
 
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")

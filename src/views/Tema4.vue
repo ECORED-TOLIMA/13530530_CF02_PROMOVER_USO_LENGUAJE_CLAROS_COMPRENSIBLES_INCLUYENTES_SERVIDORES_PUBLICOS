@@ -274,11 +274,7 @@
               Ley 1757 de 2015.
             td.
               Estatuto de la Participación Democrática. Artículo 49: establece principios y elementos del proceso de rendición de cuentas en lenguaje comprensible. Artículo 50: señala la obligatoriedad de rendir cuentas a la ciudadanía.
-          tr
-            td.
-              Proyecto de Ley 063 de 2018 (Ley de Lenguaje Claro).
-            td.
-              Modifica la Ley 1712 para incorporar el uso del Lenguajes Claros, Comprensibles e Incluyentes en la información pública.
+          
           tr
             td.
               Ley 2052 de 2020.

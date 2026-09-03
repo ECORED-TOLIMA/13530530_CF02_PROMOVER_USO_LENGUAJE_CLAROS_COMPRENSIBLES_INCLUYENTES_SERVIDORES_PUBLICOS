@@ -13,7 +13,7 @@
       .col-lg-7
         .cajon.color-secundario.p-4.mb-4
           p.mb-0.
-            El plan de mejoramiento permite organizar acciones para fortalecer la comunicación institucional en servidores públicos. Después de medir los indicadores y revisar cómo se estan usando los lenguajes claros, comprensibles e inclusivos, es importante definir qué se debe mantener, qué se debe corregir y qué se puede mejorar.
+            El plan de mejoramiento permite organizar acciones para fortalecer la comunicación institucional en servidores públicos. Después de medir los indicadores y revisar cómo se están usando los lenguajes claros, comprensibles e inclusivos, es importante definir qué se debe mantener, qué se debe corregir y qué se puede mejorar.
         p.mb-0.
           En la comunicación pública, aplicar un plan de mejoramiento no significa cambiar todo el proceso de manera inmediata; significa, primero, identificar las situaciones que afectan la comprensión, el acceso o el trato hacia las personas, y proponer acciones de mejora. Por ejemplo, capacitar al personal responsable de comunicarse con la ciudadanía, revisar una pieza gráfica antes de que sea divulgada, mejorar un canal de atención y verificar que sea el adecuado de acuerdo con la condición de la persona que recibe la información.
 

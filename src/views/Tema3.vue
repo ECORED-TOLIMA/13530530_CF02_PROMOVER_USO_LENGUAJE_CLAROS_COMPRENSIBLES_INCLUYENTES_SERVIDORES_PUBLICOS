@@ -126,7 +126,7 @@
             .h2 1
           h5.text-center Explícita
           p.text-center.mb-0.
-            Puede ser explicíta cuando aparece de manera directa en una expresión ofensiva, excluyente o despectiva.
+            Puede ser explícita cuando aparece de manera directa en una expresión ofensiva, excluyente o despectiva.
       .col-lg-3.col-md-6.mb-4
         .tarjeta-numerada.tema3-caracteristica--2.h-100.p-5
           .tarjeta-numerada__numero
